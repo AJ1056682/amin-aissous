@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Amin AISSOUS and I’m a software engineer
 - 👀 I specialize in the field of API management software engineering. I have helped many organizations implement APIs by designing and building services and systems that integrate with their existing information systems workflows 
-- 🌱 I am currently api leader at the digital factory of totalEnerrgies
+- 🌱 I am currently API leader architect at the digital factory of totalEnerrgies
 - 💞️ I am looking to collaborate on API topics to help TDF better manage their API lifecycle
 - 📫 You can reach on amin.aissous@totalenergies.com or Teams ;) 
 
